@@ -1,0 +1,4 @@
+node_modules
+.env
+mirror-state.json
+.git
